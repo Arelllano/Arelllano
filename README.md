@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Arelllano/Arelllano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Juan Arellano
 
-Here are some ideas to get you started:
+![Logo](https://nrc.canada.ca/sites/default/files/2025-09/dt-data-analytics-centre-facility-banner-1920x720.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+Analista de datos proactivo y orientado a resultados, con dominio de herramientas como SQL para la gestión y consulta de bases de datos, Python y Power BI.
+
+
+## 🛠 Skills
+Python, SQL, Excel, Data Studio
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arelllano&theme=transparent)](https://git.io/streak-stats)
