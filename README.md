@@ -1,7 +1,7 @@
 
 ### Hola mi nombre soy Arelllano
 
-![Logo]([https://nrc.canada.ca/sites/default/files/2025-09/dt-data-analytics-centre-facility-banner-1920x720.png](https://canva.link/uofvoy2pwnpkvlb))
+![Logo](https://canva.link/uofvoy2pwnpkvlb)
 
 
 ## 🚀 About Me
