@@ -1,7 +1,9 @@
 
-### Hola mi nombre soy Arelllano
+### Hola, soy Arelllano
 
-![Logo](https://canva.link/uofvoy2pwnpkvlb)
+<p align="center">
+  <img src="https://canva.link/uofvoy2pwnpkvlb" alt="Banner de perfil" width="100%" />
+</p>
 
 
 ## 🚀 About Me
