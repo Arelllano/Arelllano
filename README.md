@@ -1,9 +1,7 @@
 
-### Hola, soy Arelllano
+### Hola, soy
 
-<p align="center">
-  <img src="https://canva.link/uofvoy2pwnpkvlb" alt="Banner de perfil" width="100%" />
-</p>
+<img width="3780" height="1890" alt="Black and White Classic Coming Soon Banner" src="https://github.com/user-attachments/assets/7acbfbc7-bda9-4b05-b3d1-c7aa7f4f6a33" />
 
 
 ## 🚀 About Me
